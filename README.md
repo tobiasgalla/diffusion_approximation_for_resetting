@@ -1,1 +1,1 @@
-Data is in the branches labelled figure1, figure2 and so on
+Data is in the branches labelled figure1, figure2 and so on. The data file for the main panel of Fig. 5 in the main paper is too large to be posted here. It can be obtained from the author upon reasonable request.
